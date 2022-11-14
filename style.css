@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+main{
+    background-color: white;
+    padding: 2em;
+    border: solid 1px red;
+    margin: 2em;
+}
+
+.first__section, .second__section, .third__section{
+    font-size: 18px;
+}
+.first__section,.second__section, .third__section{
+     font-size: 14px;
+}
+
+.first__section p{
+    color: green;
+}
+
+.second__section{
+    color: red;
+}
+
+.third__section{
+   color: blue;
+}
